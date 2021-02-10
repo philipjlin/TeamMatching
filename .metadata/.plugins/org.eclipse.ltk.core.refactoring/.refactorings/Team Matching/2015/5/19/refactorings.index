@@ -1,0 +1,6 @@
+1430679485990	Rename field 'preferences'
+1430679522847	Rename field 'preferences'
+1430696542763	Rename method 'calculateTeamPreferences'
+1430719368239	Rename method 'calculateTeamPreferenceList'
+1430723754625	Rename local variable 'a'
+1430723770339	Rename local variable 'listToSort'

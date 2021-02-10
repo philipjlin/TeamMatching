@@ -1,0 +1,41 @@
+Team Ground A:10 D:40 I:10 R:40
+Team Flying A:20 D:35 I:10 R:40
+Team Water A:20 D:30 I:30 R:20
+Team Grass A:10 D:15 I:35 R:40
+Team Fire A:50 D:20 I:20 R:10 
+Team Psychic A:20 D:20 I:50 R:10
+Team Electric A:40 D:5 I:20 R:35
+Team Steel A:25 D:40 I:5 R:40
+Team Ice A:15 D:40 I:40 R:5
+Team Fighting A:25 D:25 I:25 R:25
+
+Player Bulbasaur A:22 D:40 I:20 R:11 Preferences:Grass,Ground,Psychic,Fighting,Water,Steel,Ice,Flying,Electric,Fire        
+Player Charmander A:30 D:25 I:18 R:15 Preferences:Fire,Electric,Ground,Steel,Flying,Ice,Psychic,Fighting,Grass,Water
+Player Squirtle A:15 D:39 I:23 R:15 Preferences:Water,Fighting,Grass,Ice,Steel,Ground,Psychic,Flying,Fire,Electric
+Player Pikachu A:35 D:5 I:27 R:14 Preferences:Electric,Grass,Fighting,Fire,Flying,Ground,Psychic,Steel,Ice,Water
+Player Growlithe A:32 D:17 I:19 R:5 Preferences:Fire,Ground,Fighting,Steel,Electric,Flying,Grass,Ice,Water,Psychic
+Player Electabuzz A:34 D:12 I:29 R:8 Preferences:Electric,Grass,Steel,Fire,Psychic,Fighting,Ground,Water,Ice,Flying
+Player Ponyta A:19 D:13 I:40 R:31 Preferences:Fire,Grass,Psychic,Ground,Fighting,Flying,Water,Ice,Steel,Electric
+Player Scyther A:36 D:22 I:20 R:13 Preferences:Grass,Fighting,Steel,Flying,Electric,Ground,Ice,Psychic,Water,Fire
+Player Staryu A:14 D:18 I:22 R:34 Preferences:Water,Psychic,Ice,Fighting,Flying,Ground,Grass,Steel,Fire,Electric
+Player Poliwag A:22 D:29 I:14 R:24 Preferences:Water,Ground,Grass,Psychic,Fighting,Flying,Ice,Steel,Electric,Fire
+Player Magnemite A:20 D:44 I:11 R:15 Preferences:Electric,Steel,Flying,Psychic,Fire,Ice,Grass,Water,Fighting,Ground
+Player Seel A:10 D:30 I:20 R:20 Preferences:Water,Ice,Ground,Steel,Electric,Grass,Fighting,Psychic,Fire,Flying
+Player Magmar A:31 D:12 I:23 R:25 Preferences:Fire,Ground,Steel,Fighting,Psychic,Grass,Electric,Flying,Water,Ice
+Player Voltorb A:20 D:23 I:14 R:22 Preferences:Electric,Steel,Ground,Flying,Grass,Fire,Water,Ice,Fighting,Psychic
+Player Shellder A:7 D:39 I:15 R:21 Preferences:Water,Ice,Ground,Steel,Fighting,Grass,Psychic,Fire,Electric,Flying
+Player Tangela A:17 D:17 I:17 R:29 Preferences:Grass,Ground,Fighting,Psychic,Water,Electric,Steel,Ice,Flying,Fire
+Player Marill A:15 D:14 I:32 R:23 Preferences:Water,Ground,Grass,Psychic,Fighting,Steel,Ice,Flying,Electric,Fire
+Player Goldeen A:23 D:14 I:11 R:20 Preferences:Water,Grass,Fighting,Steel,Ice,Psychic,Electric,Fire,Ground,Flying
+Player Pinsir A:42 D:24 I:17 R:13 Preferences:Grass,Ground,Fighting,Steel,Electric,Fire,Ice,Water,Fire
+Player Lapras A:21 D:25 I:49 R:18 Preferences:Water,Psychic,Electric,Ice,Grass,Ground,Flying,Steel,Fire,Fighting
+Player Oddish A:13 D:14 I:25 R:34 Preferences:Grass,Water,Electric,Ground,Flying,Fighting,Ice,Psychic,Steel,Fire
+Player Mareep A:21 D:28 I:15 R:28 Preferences:Electric,Grass,Psychic,Fire,Steel,Fighting,Water,Flying,Ice,Ground
+Player Totodile A:23 D:32 I:28 R:17 Preferences:Water,Ice,Flying,Steel,Psychic,Electric,Fighting,Grass,Ground,Fire
+Player Cyndaquil A:31 D:23 I:20 R:23 Preferences:Fire,Flying,Electric,Grass,Steel,Psychic,Fighting,Ground,Water,Ice
+Player Flareon A:27 D:27 I:23 R:14 Preferences:Fire,Ground,Fighting,Grass,Flying,Psychic,Electric,Water,Ice,Steel
+Player Jolteon A:31 D:14 I:25 R:29 Preferences:Electric,Fighting,Grass,Flying,Psychic,Steel,Ground,Fire,Ice,Water
+Player Vaporeon A:29 D:33 I:25 R:18 Preferences:Water,Ice,Psychic,Ground,Fighting,Grass,Flying,Steel,Electric,Fire
+Player Chikorita A:19 D:22 I:21 R:30 Preferences:Grass,Ground,Water,Fire,Psychic,Fighting,Steel,Electric,Flying,Ice
+Player Wobuffet A:28 D:30 I:14 R:12 Preferences:Water,Ground,Steel,Fighting,Ice,Psychic,Electric,Fire,Grass,Flying
+Player Omanyte A:24 D:28 I:15 R:15 Preferences:Water,Ground,Steel,Fighting,Ice,Fire,Grass,Electric,Psychic,Flying
