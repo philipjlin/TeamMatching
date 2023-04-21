@@ -16,15 +16,10 @@ Developed in Java.
 
 
 ## High Level Components
-    * Input file
+    * Input file - playerteaminfo.txt contains info about team preferences, player preferences, and player ratings.
     * Input file reader
     * Matching engine with sorting logic
     * Objects that represent teams and players
-    
-
-
-## Input File
-    * playerteaminfo.txt is the input file used for the program. This file contains information about team preferences, player preferences, and player ratings.
 
 
 ## Class Overview
